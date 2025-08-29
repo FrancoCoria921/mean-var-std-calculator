@@ -14,7 +14,7 @@ Función en Python que calcula media, varianza, desviación estándar, máximo, 
 
 ## 📦 Instalación
 bash
-git clone https://github.com/tu-usuario/calculadora-python.git
+git clone https://github.com/FrancoCoria921/calculadora-python.git
 cd calculadora-python
 pip install numpy
 
